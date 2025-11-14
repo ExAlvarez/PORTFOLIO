@@ -4,6 +4,8 @@ _List of projects and work in which I participate both individually and as part 
 
 *  Cada rama contiene un trabajo diferente que abarca una temática especifica.
 
-    _Each branch contains a different work done by me individually or as part of a team._
+    _Each branch contains a different work covering a specific topic._
 
-* 
+*  Los trabajos fueron realizados de manera individual o en equipo, siendo estos ultimos los trabajos mas extensos.
+  
+    _The work was carried out individually or in teams, with the latter being the most extensive projects._ 
