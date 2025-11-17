@@ -1,7 +1,15 @@
-# PORTFOLIO
-### Listado de proyectos en los que participe tanto de manera individual como formando equipo.
-_List of projects and work in which I participate both individually and as part of a team._
+# 🛡️ Cybersecurity Portfolio / Portafolio de Ciberseguridad
 
-- Cada rama contiene un trabajo diferente que abarca una temática o actividad específica, estos mismos habiendo sido realizados de manera individual o en formato de equipo.
+Este repositorio alberga una colección de **proyectos y trabajos** en el campo de la ciberseguridad, realizados tanto de forma **individual como colaborativa**.
 
-    _Each branch contains a different project covering a specific topic or activity, which may have been carried out individually or as part of a team._ 
+Cada rama (**Branch**) está dedicada a un proyecto específico y funcional, cubriendo una variedad de temáticas y actividades, incluyendo:
+
+* Análisis de vulnerabilidades
+* Pruebas de penetración (Penetration Testing)
+* Desarrollo de herramientas defensivas/ofensivas
+* Investigación de amenazas (Threat Intelligence)
+
+Explora las ramas para acceder a la documentación detallada y los entregables de cada trabajo.
+
+---
+*This repository contains a collection of cybersecurity projects and work, carried out both individually and collaboratively. Each branch is dedicated to a specific, functional project, covering a variety of topics and activities.*
