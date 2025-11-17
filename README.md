@@ -1,15 +1,19 @@
-# 🛡️ Cybersecurity Portfolio / Portafolio de Ciberseguridad
+# 🛡️  Seguridad Integral y Hardening de Sistemas Operativos
 
-Este repositorio alberga una colección de **proyectos y trabajos** en el campo de la ciberseguridad, realizados tanto de forma **individual como colaborativa**.
+Esta rama documenta un proyecto completo de **análisis, diseño e implementación** de un marco de seguridad robusto para la infraestructura de una organización, con un enfoque principal en los **Sistemas Operativos (SO)** y su entorno de soporte.
 
-Cada rama (**Branch**) está dedicada a un proyecto específico y funcional, cubriendo una variedad de temáticas y actividades, incluyendo:
+El trabajo abarca el ciclo completo de seguridad, desde la arquitectura de red y el data center, hasta las políticas de mitigación de riesgos y resiliencia.
 
-* Análisis de vulnerabilidades
-* Pruebas de penetración (Penetration Testing)
-* Desarrollo de herramientas defensivas/ofensivas
-* Investigación de amenazas (Threat Intelligence)
+## Puntos Clave del Proyecto:
+* **Análisis de Infraestructura:** Presentación de la arquitectura de red, data center, inventario de sistemas operativos y la implementación de la capa de virtualización (hipervisores, seguridad y diagramas de servidores/SO).
 
-Explora las ramas para acceder a la documentación detallada y los entregables de cada trabajo.
+* **Hardening Profundo:** Aplicación de metodologías de Hardening sobre los sistemas operativos, incluyendo gestión de sistemas de archivos, permisos, cifrado de datos en reposo y en movimiento (FS Encryption), y estrategias de gestión de parches.
 
----
-*This repository contains a collection of cybersecurity projects and work, carried out both individually and collaboratively. Each branch is dedicated to a specific, functional project, covering a variety of topics and activities.*
+* **Controles Críticos:** Implementación de soluciones de Autenticación, Autorización y Control de Acceso (AAA). Esto incluye la gestión de identidad (IdM), políticas de claves criptográficas y rutinas de auditoría de seguridad.
+
+* **Defensa y Resiliencia:** Definición de la seguridad perimetral (acceso remoto, monitoreo), y estrategias de continuidad del negocio, como la implementación de redundancia (clustering/replicación) y políticas de backup y recuperación de SO.
+
+* **Gobierno y Riesgos:** Desarrollo de un Análisis de Riesgos detallado para la infraestructura, estrategias de mitigación, políticas de seguridad corporativas y un plan de capacitación en seguridad.
+
+### 🧪 Proof of Concept (PoC) / Laboratorio
+El repositorio incluye la documentación de la **implementación práctica** de todas las soluciones propuestas. Se montó un ambiente de laboratorio con la infraestructura mínima requerida (una máquina virtual por SO) para demostrar la funcionalidad y la correcta aplicación de los controles de seguridad, acompañado de screenshots y explicaciones técnicas detalladas.
