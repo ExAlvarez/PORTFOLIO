@@ -1,6 +1,6 @@
 # 🦠 Análisis de Malware e Ingeniería Reversa
 
-Este trabajo documenta el análisis estático y dinámico de un ejecutable sospechoso basado en una versión modificada de PuTTY. El objetivo fue identificar modificaciones en el binario, analizar su comportamiento, detectar mecanismos de ejecución y determinar el tipo de malware mediante distintas herramientas de análisis.
+Este espacio reúne distintos trabajos relacionados con el análisis de malware e ingeniería reversa, abordando técnicas de análisis estático y dinámico, identificación de amenazas, estudio del comportamiento de ejecutables y detección de mecanismos utilizados por software malicioso.
 
 ## Puntos Clave del Proyecto
 * **Análisis Estático**: Inspección de ejecutables, identificación de arquitecturas, strings, imports, secciones y estructuras internas.
